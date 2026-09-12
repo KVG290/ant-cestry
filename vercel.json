@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "ant-cestry-pro",
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
