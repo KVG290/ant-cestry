@@ -93,8 +93,11 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Demonstrates ant scanning, Zero-G floating mode, and nose proximity detection to neutralize the pheromone screen quake.*
+[Ant-cestry Pro Live Demo Video (Screen Recording.mp4)](Screen%20Recording.mp4)
+
+<video src="Screen%20Recording.mp4" controls="controls" style="max-width: 100%;"></video>
+
+*Live video demonstration showing countertop ant pedigree scanning, Zero-G Party gravity suspension with abrupt drop, interactive crawling ants, and the violent pheromone screen quake neutralized by bringing the nose within < 4 cm of the camera lens.*
 
 # Additional Demos
 - Live Vercel / Web Deployment: [https://github.com/KVG290/ant-cestry](https://github.com/KVG290/ant-cestry)
