@@ -1,0 +1,9 @@
+﻿*.log
+*.zip
+serve.ps1
+run.bat
+start-ant-cestry.bat
+start-ant-cestry.ps1
+node_modules/
+dist/
+.vscode/
