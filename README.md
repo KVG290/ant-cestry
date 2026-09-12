@@ -34,11 +34,6 @@ For Software:
 - Libraries: WebRTC `getUserMedia`, HTML5 Canvas API (Chromaticity skin & nose tracking), Web Audio API (Procedural tone synthesizer)
 - Tools: VS Code, Vercel, MinGit
 
-For Hardware:
-- Main components: Smartphone / Laptop Front & Rear Cameras, Display Screen, Human Nose
-- Specifications: Front RGB Camera Sensor, Olfactory Proximity Detection Zone (< 4 cm)
-- Tools required: 1 Human Nose, 1 Device Screen, 1 Countertop Ant (optional)
-
 ### Implementation
 For Software:
 # Installation
@@ -56,7 +51,6 @@ start index.html
 ```
 
 ### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](screenshot1.png)
@@ -65,7 +59,7 @@ For Software:
 ![Screenshot2](screenshot2.png)
 *Zero-G Party Mode: All cards and UI elements detaching and floating weightlessly in space.*
 
-![Screenshot3](screenshot1.png)
+![Screenshot3](screenshot3.png)
 *Pheromone Screen Quake & Olfactory Cleanser: Violent screen shaking with nose-distance tracking reticle (< 4 cm).*
 
 # Diagrams
@@ -83,26 +77,15 @@ flowchart TD
 ```
 *Workflow diagram illustrating camera scanning, Zero-G party state transitions, and the nose-cleansing feedback loop.*
 
-For Hardware:
-
-# Schematic & Circuit
-*Not applicable (Pure Software Web Application with sensor-driven camera & canvas computer vision)*
-
-# Build Photos
-*Not applicable (Software Project)*
-
 ### Project Demo
 # Video
-[Ant-cestry Pro Live Demo Video (Screen Recording.mp4)](Screen%20Recording.mp4)
-
-<video src="Screen%20Recording.mp4" controls="controls" style="max-width: 100%;"></video>
-
-*Live video demonstration showing countertop ant pedigree scanning, Zero-G Party gravity suspension with abrupt drop, interactive crawling ants, and the violent pheromone screen quake neutralized by bringing the nose within < 4 cm of the camera lens.*
+![Add your demo video link here](Screen Recording.mp4)
 
 # Additional Demos
 - Live Vercel / Web Deployment: [https://github.com/KVG290/ant-cestry](https://github.com/KVG290/ant-cestry)
 
 ## Team Contributions
+
 - Karthik V Gopal: Technical architecture, computer vision & canvas chromaticity nose tracking engine, procedural Web Audio synthesizer, Zero-G floating physics, and Vercel deployment.
 - Devinanda: UI/UX design & comic aesthetic, Colony Mingle ant persona curation, bug pedigree taxonomy research, and testing & verification.
 
