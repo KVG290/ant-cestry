@@ -60,7 +60,8 @@ start index.html
 *Zero-G Party Mode: All cards and UI elements detaching and floating weightlessly in space.*
 
 ![Screenshot3](screenshot3.png)
-*Pheromone Screen Quake & Olfactory Cleanser: Violent screen shaking with nose-distance tracking reticle (< 4 cm).*
+
+*Pheromone Screen Quake & Olfactory Cleanser: Violent screen shaking with nose-distance tracking reticle (&lt; 4 cm).*
 
 # Diagrams
 ```mermaid
@@ -84,7 +85,7 @@ flowchart TD
 
 🎬 **[▶ Click Here to Watch the Full Demo Video (Screen Recording.mp4)](Screen%20Recording.mp4)**
 
-*Live screen recording demonstration showing real-time countertop ant pedigree scanning, Zero-G Party gravity suspension and abrupt drop, interactive crawling ants, and the violent pheromone screen quake neutralized by bringing the nose within < 4 cm of the camera lens.*
+*Live screen recording demonstration showing real-time countertop ant pedigree scanning, Zero-G Party gravity suspension and abrupt drop, interactive crawling ants, and the violent pheromone screen quake neutralized by bringing the nose within &lt; 4 cm of the camera lens.*
 
 # Additional Demos
 - Animated Action Preview: [demo-preview.gif](demo-preview.gif)
