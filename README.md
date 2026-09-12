@@ -1,108 +1,109 @@
-<img width="1280" height="640" alt="Ant-cestry Pro Banner" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+
+
 
 # Ant-cestry Pro 🐜🎯
 
-> *"Because nobody asked, and no ant cares."*
-
-![Pedigree](https://img.shields.io/badge/Pedigree-100%25%20Useless-amber?style=for-the-badge)
-![Zero-G](https://img.shields.io/badge/Zero--G%20Party-Active-purple?style=for-the-badge)
-![Pheromones](https://img.shields.io/badge/Nose%20Cleanse-%3C4cm-red?style=for-the-badge)
-![Vercel Ready](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)
-
----
 
 ## Basic Details
-
 ### Team Name: Formic Pioneers
 
+
 ### Team Members
-- **Team Lead**: Karthik V G - TinkerHub Useless Projects Hackathon 2026
+- Team Lead: Karthik V Gopal
+- Member 2: Devinanda
 
 ### Project Description
-**Ant-cestry Pro** is the world's first (and completely unnecessary) bug-genealogy, colony-kinship, and pheromone-cleansing web application. It uses real-time computer vision to inspect countertop ants, compute genealogical cousin likelihoods, simulate zero-gravity physics, and force users to cleanse volatile chemical pheromones by pressing their nose to the front camera lens (< 4 cm).
+Ant-cestry Pro is a playful, comic-styled bug-kinship and ant-genealogy web application that uses computer vision to inspect countertop ants, scan bug pedigrees, and simulate zero-gravity parties. It features an olfactory pheromone cleanser where users must physically point their nose directly at the camera lens (< 4 cm) to stop a violent screen-shaking glitch.
 
 ### The Problem (that doesn't exist)
-Every single day, billions of ants wander past each other across kitchen countertops, picnic mats, and sidewalks without knowing their family tree. Are they 3rd cousins once removed? Are they accidentally dating within their own subterranean colony? Are their pheromone trails causing linguistic degradation in nearby humans?
-
-Until now, the insect kingdom had zero digital pedigree tools to avoid awkward subterranean family reunions.
+Every day, billions of ants walk past each other on kitchen countertops, picnic mats, and sidewalks without knowing their family tree. Are they 3rd cousins once removed? Are they accidentally dating within their own subterranean colony? Until now, the insect kingdom had zero digital pedigree tools to avoid awkward subterranean family reunions.
 
 ### The Solution (that nobody asked for)
-We built **Ant-cestry Pro** — a full-featured, mobile-responsive cartoon-styled web app featuring:
-1. **Ant-cestry Pedigree Scanner**: Camera targeting reticle that analyzes real-time video frames (or simulated ants) and spits out an exact bug pedigree breakdown (e.g. *73% Red Harvester, 19% Carpenter Ant, 8% Sugar Raider, 0% Cousin Guarantee*).
-2. **Zero-G Party Mode**: Temporarily suspends Earth's gravitational constant so all background cards, navigation headers, and screen-crawling ants float and bob in space with custom synth arpeggios, before abruptly crashing back down with a physical thud.
-3. **Pheromone Glitch & Olfactory Cleanser (< 4 cm)**: Tap *"Emit Pheromones!"* to unleash formic vapor. The entire screen **violently shakes** (`@keyframes screenQuake`) and text mutates into chemical glyphs (`[FORMIC] [TRAIL]`). Manual screen taps are blocked — the only way to stop the quake and cleanse the screen is to **bring the tip of your nose within < 4 cm of the front camera lens** to inhale the molecules.
-4. **Crawling Screen Ants Layer**: Live wandering SVG ants with wiggling legs, tap-to-panic scurrying physics, and a `+ More Ants` colony expander.
-5. **Colony Mingle**: The ultimate bug-dating radar with distance calculations and incest-prevention warnings.
-
----
+We built Ant-cestry Pro:
+1. An Ant Pedigree Scanner with real-time targeting reticle analyzing bug lineage (e.g., 73% Red Harvester, 0% Cousin Guarantee).
+2. A Zero-G Party button that detaches all UI cards, headers, and screen-crawling ants to float in weightless space before abruptly crashing back down with a physical thud.
+3. A Pheromone Tester that violently shakes the entire screen (`@keyframes screenQuake`) and glitches all text into chemical symbols, which can ONLY be cleansed when the user brings the tip of their nose within < 4 cm of the front camera lens.
+4. Interactive screen ants that crawl across your device and scurry in panic when tapped.
 
 ## Technical Details
-
 ### Technologies/Components Used
+For Software:
+- Languages: HTML5, CSS3, Modern JavaScript (ES6+)
+- Frameworks: TailwindCSS (via CDN)
+- Libraries: WebRTC `getUserMedia`, HTML5 Canvas API (Chromaticity skin & nose tracking), Web Audio API (Procedural tone synthesizer)
+- Tools: VS Code, Vercel, MinGit
 
-#### For Software:
-- **Languages**: HTML5, CSS3, Modern JavaScript (ES6+).
-- **Frameworks & UI**: TailwindCSS (via CDN), Custom Comic Pop Art Styling (`Fredoka` & `Bungee` typography), CSS 3D Transforms & Keyframe Physics.
-- **Computer Vision & Hardware Sensors**:
-  - WebRTC `navigator.mediaDevices.getUserMedia` for dual-camera streaming (rear environment scanner + front selfie camera).
-  - HTML5 Canvas Chromaticity processing engine for real-time nose proximity estimation.
-- **Audio Synthesizer**: Web Audio API `AudioContext` procedural sound generator (sine waves, harmonic arpeggios, low-frequency impact thuds) — 0 external MP3 dependencies.
-- **Deployment & Networking**: Vercel static routing (`vercel.json`), SSH Web Tunneling (`localhost.run` HTTPS bridge).
+For Hardware:
+- Main components: Smartphone / Laptop Front & Rear Cameras, Display Screen, Human Nose
+- Specifications: Front RGB Camera Sensor, Olfactory Proximity Detection Zone (< 4 cm)
+- Tools required: 1 Human Nose, 1 Device Screen, 1 Countertop Ant (optional)
 
----
-
-## Implementation
-
-### For Software:
-
-#### Installation
-No complex toolchains or package installations required! The entire application is self-contained.
-
+### Implementation
+For Software:
+# Installation
 ```bash
-# 1. Clone the repository
 git clone https://github.com/KVG290/ant-cestry.git
-
-# 2. Navigate to project directory
 cd ant-cestry
 ```
 
-#### Run Locally
+# Run
 ```bash
-# Simply open index.html in any modern browser:
-# On Windows:
+# Open index.html directly in any web browser:
 start index.html
 
-# Or serve via Python:
-python -m http.server 8080
+# Or deploy to Vercel in 1 click (zero configuration required)
 ```
 
-#### Deploy to Vercel (1-Click)
-1. Go to [Vercel](https://vercel.com/new) and import `https://github.com/KVG290/ant-cestry`.
-2. Framework Preset: **Other**.
-3. Click **Deploy**. Permanent HTTPS URL generated in 15 seconds!
+### Project Documentation
+For Software:
 
----
+# Screenshots (Add at least 3)
+![Screenshot1](screenshot1.png)
+*Ant-cestry Pedigree Scanner: Real-time viewfinder targeting ant coordinates with lineage percentage breakdown.*
 
-## Project Documentation
+![Screenshot2](screenshot2.png)
+*Zero-G Party Mode: All cards and UI elements detaching and floating weightlessly in space.*
 
-### Screenshots
+![Screenshot3](screenshot1.png)
+*Pheromone Screen Quake & Olfactory Cleanser: Violent screen shaking with nose-distance tracking reticle (< 4 cm).*
 
-1. **Ant-cestry Pedigree Scanner & Live Reticle**  
-   *Real-time camera targeting viewfinder analyzing bug lineage with 0% Cousin Guarantee.*
+# Diagrams
+```mermaid
+flowchart TD
+    A[Start Ant-cestry Pro] --> B[Interactive Ant Layer Spawned]
+    B --> C{Choose Action}
+    C -->|Scan Ant| D[Camera Scanner / Reticle]
+    D --> E[Genealogy Pedigree Generated - 0% Cousin]
+    C -->|Zero-G Party| F[Gravity Off: Cards & Ants Float with Synth Chimes]
+    F -->|Stop Party| G[Abrupt Gravity Crash & Thud Sound]
+    C -->|Emit Pheromones| H[Violent Screen Quake & Glitch Text]
+    H --> I[Point Nose to Camera < 4 cm]
+    I -->|Distance Verified| J[Vapor Inhaled & Screen Cleansed]
+```
+*Workflow diagram illustrating camera scanning, Zero-G party state transitions, and the nose-cleansing feedback loop.*
 
-2. **Zero-G Party Mode**  
-   *All UI cards and crawling ants detaching and floating in weightless space.*
+For Hardware:
 
-3. **Pheromone Quake & Olfactory Nose Cleanser**  
-   *Violent screen shaking with front camera nose-distance reticle (< 4 cm detection).*
+# Schematic & Circuit
+*Not applicable (Pure Software Web Application with sensor-driven camera & canvas computer vision)*
 
----
+# Build Photos
+*Not applicable (Software Project)*
+
+### Project Demo
+# Video
+[Add your demo video link here]
+*Demonstrates ant scanning, Zero-G floating mode, and nose proximity detection to neutralize the pheromone screen quake.*
+
+# Additional Demos
+- Live Vercel / Web Deployment: [https://github.com/KVG290/ant-cestry](https://github.com/KVG290/ant-cestry)
 
 ## Team Contributions
-- **Karthik V G**: Concept design, comic pop-art UI architecture, procedural Web Audio synthesizer, WebRTC camera integrations, canvas nose chromaticity algorithms, and zero-g physics engine.
+- Karthik V Gopal: Technical architecture, computer vision & canvas chromaticity nose tracking engine, procedural Web Audio synthesizer, Zero-G floating physics, and Vercel deployment.
+- Devinanda: UI/UX design & comic aesthetic, Colony Mingle ant persona curation, bug pedigree taxonomy research, and testing & verification.
 
 ---
-
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
