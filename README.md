@@ -79,10 +79,16 @@ flowchart TD
 
 ### Project Demo
 # Video
-![Add your demo video link here](Screen Recording.mp4)
+
+[![Ant-cestry Pro Live Demo](video-card.png)](Screen%20Recording.mp4)
+
+🎬 **[▶ Click Here to Watch the Full Demo Video (Screen Recording.mp4)](Screen%20Recording.mp4)**
+
+*Live screen recording demonstration showing real-time countertop ant pedigree scanning, Zero-G Party gravity suspension and abrupt drop, interactive crawling ants, and the violent pheromone screen quake neutralized by bringing the nose within < 4 cm of the camera lens.*
 
 # Additional Demos
-- Live Vercel / Web Deployment: [https://github.com/KVG290/ant-cestry](https://github.com/KVG290/ant-cestry)
+- Animated Action Preview: [demo-preview.gif](demo-preview.gif)
+- Live Web Deployment: [https://github.com/KVG290/ant-cestry](https://github.com/KVG290/ant-cestry)
 
 ## Team Contributions
 
